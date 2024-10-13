@@ -1,7 +1,7 @@
 ---
-title: Ｎａｇｋｕｍａｒ です
-date: 2024-09-13
+{"title":"Ｎａｇｋｕｍａｒ です","date":"2024-09-13","publish":true,"path":"index.md","permalink":"/index/","PassFrontmatter":true}
 ---
+
 
 <div class="center-header">
 <a href="."> <button class="btn-14" type="button" >[home]</button></a> <a href="tags/articles"><button class="btn-14" type="button">[library]</button></a> <a href="/glossary"><button class="btn-14" type="button">[glossary]</button></a> <a href="/dictionary"> <button class="btn-14" type="button">[dictionary]</button></a> <a href="/about us"><button class="btn-14" type="button"> [about us]</button></a>
@@ -37,5 +37,5 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - and Mystikism.
 
  ### Latest Articles
- - [[external discipline]]
- - [[purity of mind & internal posture]]
+ - [[Practices/external discipline\|external discipline]]
+ - [[Practices/purity of mind & internal posture\|purity of mind & internal posture]]
