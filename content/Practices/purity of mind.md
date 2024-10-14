@@ -1,5 +1,5 @@
 ---
-{"title":"purity of mind & internal posture","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
+{"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
 ---
 
 
