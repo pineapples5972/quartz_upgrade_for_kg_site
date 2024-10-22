@@ -10,20 +10,22 @@
 Every human being must strive for self-realization. When the individual self has right knowledge of the universal Self and recognizes its Divinity without the least apprehension, it is known as Union or Yoga. Patanjali has explained eight limbs of Yoga in his Yoga-Sutras. However The Kashmir Śaiva philosophy also recognizes the Yoga-Sutras and we have our own independent system for limbs of Yoga, where it is stressed that the first two parts, i.e. Yamas and Niyamas must have already been practised. In Kashmir Śaivism the eight limbs of Yoga begin from Asanas—the right posture. By practising the first two one prepares oneself for the spiritual path. This is the development of etiquette. This is the external behavior. Unless one develops the external behavior how can one delve deeper into subtleties!
 ![Yoga-Poses.jpg](../metadata/Yoga-Poses.jpg)
 
-==नित्योदिता पराशक्तिर्यद्यप्येषा तथापि च।==
-==बाह्यचर्याविहीनस्य दुर्लभा कौलिकी स्थितिः॥==
-
-— Quoted by Jayarathа on Tantraloka 12.16.
+<div class="mantra_div mantra_devnagri">
+<p>नित्योदिता पराशक्तिर्यद्यप्येषा तथापि च।</p>
+<p>बाह्यचर्याविहीनस्य दुर्लभा कौलिकी स्थितिः॥</p>
+— Quoted by Jayaratha on Tantraloka 12.16.
+</div>
 
 Meaning:
 `The power of supreme consciousness is always present in awareness, always pure and untainted. But for a person who lacks in external behaviour, it is impossible to get established in this unalloyed bliss.`
 ![AdobeStock_158267116-web.jpg](../metadata/AdobeStock_158267116-web.jpg)
 Therefore, unless the aspirant has become well prepared in the external behaviour, or developed the right etiquette, he is bound down with chains of illusion/limitedness and doubt more and more in the prison of this world.
 
-==तथा हि शंका मालिन्यं ग्लानिः संकोच इत्यदः॥==
-==संसारकारागारान्तः स्थूलस्थूणाघटायते।==
-
+<div class="mantra_div mantra_devnagri">
+<p>तथा हि शंका मालिन्यं ग्लानिः संकोच इत्यदः॥</p>
+<p>संसारकारागारान्तः स्थूलस्थूणाघटायते।</p>
 — Tantraloka 12.20-21.
+</div>
 
 Meaning:
 `Ignorance is the subtlest impurity which gives rise to doubt. This loosens the spirit of courage to advance towards purity of mind and renders lethargic. Automatically one gets bound to limitation of body etc. This causes degradation. Thus the human being gets strongly tethered like tame animal with the rope of ignorance in the prison of this world.`
@@ -32,9 +34,11 @@ Therefore, it is necessary that one must first execute one's efforts towards the
 
 #### Otherwise, the one upon whom the Master becomes angry is left out:—
 
-==गुरुर्हि कुपितो यस्य स तिरोहित उच्यते।==
 
+<div class="mantra_div mantra_devnagri">
+<p>गुरुर्हि कुपितो यस्य स तिरोहित उच्यते।</p>
 —Tantraloka 23.63.
+</div>
 
 `The favour of doing good is denied to him.`
 ![Pasted image 20240925183134.png](../images/Pasted%20image%2020240925183134.png)
