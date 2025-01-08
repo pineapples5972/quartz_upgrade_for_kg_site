@@ -1,8 +1,6 @@
 ---
-{"title":"about us","date":"2024-09-25","publish":true,"path":"about us.md","permalink":"/about-us/","PassFrontmatter":true}
+{"title":"who are we?","date":"2025-01-08","publish":true,"path":"about us.md","permalink":"/about-us/","PassFrontmatter":true}
 ---
-
-# who are we?
 
 `hail, noble seeker, and welcome to the sacred domain of karpurgauram! we, a group of humble fellowship of devotees & volunteers, have embarked upon a most reverent quest—to unveil and immortalize the celestial wisdom of trikaśāsan—kashmir shaivism through the marvels of the digital age.`
 
