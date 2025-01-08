@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "karpurgauram",
+    pageTitle: "Ｎａｇｋｕｍａｒ です",
     enableSPA: true,
     enablePopovers: true,
     locale: "en-US",
