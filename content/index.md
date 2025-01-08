@@ -38,5 +38,5 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - and Mystikism.
 
  ### Latest Articles
- - [[Practices/external discipline\|external discipline]]
- - [[Practices/purity of mind\|purity of mind & internal posture]]
+ - [[Introduction/trikashasan/“त्रिकशासन”\|“त्रिकशासन”]]
+ - [[about us\|about us]]
