@@ -2,6 +2,7 @@
 {"title":"krama","date":"2024-09-26","tags":["#krama","#introduction","#articles"],"publish":true,"path":"Introduction/krama/krama.md","permalink":"/introduction/krama/krama/","PassFrontmatter":true}
 ---
 
+
 ## ]■[ "Krama System." ]■[
 
 ⎯ The Krama system does not recognize the ways of either the Pratyabhijna or the Kula system. In the Krama system, you must rise in succession, step by step. This system teaches that step-by-step realization makes your realization firm. As the Krama system is concerned with successive realization, it is primarily concerned with space and time, because where there is succession there you find the existence of space and time. In both the Pratyabhijna and Kula systems you are beyond space and time. In the Krama system, it is in the end, not in its process, that you are beyond time and space because it also carries you to that timeless and space-less state.

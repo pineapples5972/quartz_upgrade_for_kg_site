@@ -2,6 +2,7 @@
 {"title":"schools of kashmir shaivism","date":"2024-09-30","tags":["introduction","kashmirshaivism","articles","pratyabhijna","spanda","krama","kula"],"publish":true,"path":"Introduction/kashmir shaivism/schools of kashmir shaivism.md","permalink":"/introduction/kashmir-shaivism/schools-of-kashmir-shaivism/","PassFrontmatter":true}
 ---
 
+
 **Kashmir Shaivism** is known as the Pure **Trika** System. The word `Trika` means “==the threefold science of man and his world.==” **In the idea of trika, there are three Śakti-s (energies):** `parā` (supreme), `aparā` (lowest), and `parāpara` (combination of the lowest and the highest). These three primary energies represent the threefold activities of the world. In the thought of the Trika, therefore, it is admitted that this whole universe and every action in it, whether spiritual, physical, or worldly, is existing in these three energies.
 ![tresdiosas.jpg](../../metadata/tresdiosas.jpg)
 # "THE TRIKA PHILOSOPHY IS MEANT FOR ANY HUMAN BEING WITHOUT THE RESTRICTION OF CASTE, CREED, OR COLOR. ITS PURPOSE IS TO ENABLE YOU TO RISE FROM INDIVIDUALITY TO UNIVERSALITY."
