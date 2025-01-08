@@ -3,6 +3,7 @@
 ---
 
 
+
 <div class="center-header">
 <a href="."> <button class="btn-14" type="button" >[home]</button></a> <a href="tags/articles"><button class="btn-14" type="button">[library]</button></a> <a href="/glossary"><button class="btn-14" type="button">[glossary]</button></a> <a href="/dictionary"> <button class="btn-14" type="button">[dictionary]</button></a> <a href="/about us"><button class="btn-14" type="button"> [about us]</button></a>
 
@@ -38,4 +39,4 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 
  ### Latest Articles
  - [[Practices/external discipline\|external discipline]]
- - [[Practices/purity of mind & internal posture\|purity of mind & internal posture]]
+ - [[Practices/purity of mind\|purity of mind & internal posture]]

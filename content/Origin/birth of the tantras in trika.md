@@ -3,12 +3,13 @@
 ---
 
 
+
 ![0c45c8db5e700b4dd03d9.jpg](../metadata/0c45c8db5e700b4dd03d9.jpg) Bhairava and Bhairavi (At the down of Satyayuga)
 
 ### The Beginning:
 In the beginning of Satyuga Lord Śiva appeared in the form of **Svacchandanātha**. As **Svacchandanātha**, He appeared with five heads and eighteen arms. His five heads came into manifestation through his five great energies: **cit śakti, all consciousness; ānanda śakti, all bliss; icchā śakti, all will; jñāna śakti, all knowledge; and kriyā śakti, all action.** And these five energies, which appeared in His five mouths and which are known as **īśāna, tatpuruṣa, aghora, vāmadeva and sadyojāta, because of the grace (anugrahaḥ) of Lord Śiva**, experienced the sensation of illuminating the Universe.
 
-![Pasted image 20240918125958.png](../metadata/Pasted%20image%2020240918125958.png)
+![Pasted image 20240918125958.png](../metadata/Pasted image 20240918125958.png)
 ### Svacchandanātha & The Manifestation of 92 Āgama-s:
 **Lord Śiva wanted to enlighten the universe by manifesting the existence of the Tantras**. In order to accomplish this, He manifested these Tantras through his five mouths. Initially, each of these mouths—**īśāna, tatpuruṣa, aghora, vāmadeva and sadyojāta—**created one Tantra. Then two mouths joined together and created one Tantra from each combination of two mouths. And then three mouths joined together and created one Tantra from each combination of three mouths. And then four mouths joined together, and then five mouths, and these combinations of mouths produced all of the Tantras of our Śaivism.
 These Tantras are manifested in three ways. Initially, ten Tantras came into existence which were dualistic (bheda) and are called Śiva Tantras. These Tantras, which are not connected with Kashmir Śaivism, are filled with dualism. Then eighteen Tantras came into existence, which were filled with that thought which is monism cum dualism (bhedābheda). These Tantras are called Rudra Tantras. And finally, these five mouths came into existence in such a way that each and every mouth was simultaneously filled with the other four mouths. Here, four of the five energies were inserted into the fifth energy in such a way that it became full with all five energies. No one energy was in predominance, all were equal. And this happened to each and every energy. Simultaneously, from these mouths came the Bhairava Tantras, which are filled with only monistic thought (abheda). These Bhairava Tantras, which are the Tantras connected with Kashmir Śaivism, are sixty-four in number.
@@ -21,7 +22,7 @@ These Tantras are manifested in three ways. Initially, ten Tantras came into exi
 | 10 Śivāgama-s    | Apara, Bheda, Dualistic tantras                           |
 
 
-![Pasted image 20240918130348.png](../metadata/Pasted%20image%2020240918130348.png)
+![Pasted image 20240918130348.png](../metadata/Pasted image 20240918130348.png)
 Parābhairava & Bhairavi (The Beginning of Satyayug)
 
 **In the Bhairava Tantras, Lord Śiva is shown to be in predominance everywhere. He is there in fullness in Śiva and in all of His energies. He is equally present in everything and everywhere. You cannot say that something is closer to Him and something else is farther away. In everything He is there, fully and completely.**
@@ -39,7 +40,7 @@ When kaliyuga occurred, these masters and disciples were so disappointed that th
 ### The First Parameṣthī Guru of Trikaśāsana - Durvāsā Ṛṣi:
 **Durvāsā Ṛṣi**, after meditating completely to acquire a real and fit disciple for initiation, became disappointed. He could not find anyone in this world fit to be initiated. His initiation was a practical initiation because, while initiating someone in the thought of Bhairava Tantras, he simultaneously initiated him in the practical side of this thought. And this practical initiation manifested itself immediately without the disciples having to do any practice or yoga. This disciple would become instantaneously enlightened. As he could not find a disciple fit for this initiation, he created out of his mental power one mind-born son. This mind-born son was called **Tryambakanātha**. Durvāsā Ṛṣi completely initiated **Tryambakanātha** in the way of the monistic Bhairava Tantras. Afterwards, he created two more mind-born sons, **Āmardakanātha** and **Śrīnātha**. He initiated his son Āmardakanātha in the dualistic Śiva Tantras and he initiated his other son Śrinātha in the monodualistic Rudra Tantras. All of this was done by Durvāsā Ṛṣi for the upliftment of mankind.
 
-![Durvasa’s_wrath_against_Shakuntala.jpg](../metadata/Durvasa%E2%80%99s_wrath_against_Shakuntala.jpg)A painting depicting Durvasa
+![Durvasa’s_wrath_against_Shakuntala.jpg](../metadata/Durvasa’s_wrath_against_Shakuntala.jpg)A painting depicting Durvasa
 
 For the upliftment of women, Durvāsā Ṛṣi created one mind-born daughter and she was called **Ardhatryambakā**. As Kashmir Śaivism does not recognize women to be in a state of degradation, Durvāsā Ṛṣi initiated her completely in the monistic thought of Bhairava Tantras. As this view, that women are not in a state of degradation, is not held by the other two schools of Śaivism, the dualistic and monodualistic schools, Durvāsā Ṛṣi created only one-mind born daughter. His daughter Ardhatryambakā’s teaching is known as the **Ardhatryambaka school of the Bhairava Tantras.** But as the continuity of the Ardhatryambaka school manifested itself from one woman to another secretly, there is no history of this school in this kaliyuga.
 
@@ -58,5 +59,5 @@ During his reign, the king Lalitāditya traveled to India from Kashmir, where in
 However, they began in the Kashmir Valley, resided there, and are still alive there today. After some centuries in the house of Atrigupta, **Varāhagupta** was born. He is the father of **Narasiṁhagupta** and Narasiṁhagupta is the father of our great **Abhinavagupta**. Although Abhinavagupta had many disciples, both men and women, his chief disciple was **Kṣemarāja** and the chief disciple of Kṣemarāja was **Yogarāja**. After many centuries in the Kashmir Valley, **Svāmī** Ram came into this physical body. His chief disciple was **Svāmī** Mahatābakak and my Guru Swāmi Lakṣamaṇa Jū Mahārāj is the disciple of Svāmī Mahatābakak and I am disciple of Swāmi Lakṣamaṇa Jū Mahārāj.
 
 
-![Pasted image 20240918131912.png](../metadata/Pasted%20image%2020240918131912.png)
+![Pasted image 20240918131912.png](../metadata/Pasted image 20240918131912.png)
 Swāmi Lakṣamaṇa Jū Mahārāj
