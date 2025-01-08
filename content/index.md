@@ -38,5 +38,5 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - and Mystikism.
 
  ### Latest Articles
- - [[Introduction/trikashasan/“त्रिकशासन”\|“त्रिकशासन”]]
+ - [[Introduction/trikashasan/trikashasan introduction\|trikashasan introduction]]
  - [[about us\|about us]]
