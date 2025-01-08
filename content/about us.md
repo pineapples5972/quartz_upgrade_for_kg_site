@@ -10,5 +10,4 @@
 
 `come, kindred spirit, and join us in this most noble enterprise, as we strive to bridge the eternal and the ephemeral, and to rekindle the timeless flame of self-realization in the hearts of all who yearn for truth.`
 
-**— [first editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).**
-`▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
+   **— [first editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).**
