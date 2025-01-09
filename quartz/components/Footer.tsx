@@ -14,8 +14,8 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.}{" "}
-          <a href="https://t.me/karpurgauram">Ｎａｇｋｕｍａｒ です</a> © {year}
+          {i18n(cfg.locale).components.footer.allrightsreserved}{" "}
+          <a href="https://t.me/karpurgauram/">Ｎａｇｋｕｍａｒ です </a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
