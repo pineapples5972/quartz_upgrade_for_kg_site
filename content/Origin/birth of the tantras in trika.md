@@ -21,8 +21,7 @@ These Tantras are manifested in three ways. Initially, ten Tantras came into exi
 | 18 Rudrāgama-s   | Parāpara, Bhedābheda, Dualistic cum Non-dualistic tantras |
 | 10 Śivāgama-s    | Apara, Bheda, Dualistic tantras                           |
 
-
-![Pasted image 20240918130348.png](../metadata/images/Pasted image 20240918130348.png)
+![Pasted image 20250110004741.png](../metadata/images/Pasted%20image%2020250110004741.png)
 Parābhairava & Bhairavi (The Beginning of Satyayug)
 
 **In the Bhairava Tantras, Lord Śiva is shown to be in predominance everywhere. He is there in fullness in Śiva and in all of His energies. He is equally present in everything and everywhere. You cannot say that something is closer to Him and something else is farther away. In everything He is there, fully and completely.**
@@ -55,5 +54,5 @@ During his reign, the king Lalitāditya traveled to India from Kashmir, where in
 
 However, they began in the Kashmir Valley, resided there, and are still alive there today. After some centuries in the house of Atrigupta, **Varāhagupta** was born. He is the father of **Narasiṁhagupta** and Narasiṁhagupta is the father of our great **Abhinavagupta**. Although Abhinavagupta had many disciples, both men and women, his chief disciple was **Kṣemarāja** and the chief disciple of Kṣemarāja was **Yogarāja**. After many centuries in the Kashmir Valley, **Svāmī** Ram came into this physical body. His chief disciple was **Svāmī** Mahatābakak and my Guru Swāmi Lakṣamaṇa Jū Mahārāj is the disciple of Svāmī Mahatābakak and I am disciple of Swāmi Lakṣamaṇa Jū Mahārāj.
 
-![Pasted image 20240918131912.png](../metadata/images/Pasted image 20240918131912.png)
-Swāmi Lakṣamaṇa Jū Mahārāj
+![A1EE-oqhi1L.jpg](../metadata/images/A1EE-oqhi1L.jpg)
+`Swāmi Lakṣamaṇa Jū Mahārāj`
