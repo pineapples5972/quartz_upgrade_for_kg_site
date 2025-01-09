@@ -1,6 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+body {
+  background: url(images/hrim.png) no-repeat fixed;
+  background-size: cover;
+  background-position-y: center;
+}
+
+@media (max-width: 768px) {
+    body {
+        background-size: contain; /* or 100% 100% */
+    }
+}
 
 .mantra_div {
     border: 1px solid rgba(0, 0, 0, 0.1);

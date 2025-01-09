@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       "YouTube": "https://www.youtube.com/@karpurgauram",
       "Telegram": "https://telegram.me/easterntantriks",
       "Discord":"https://discord.gg/w7kphtmXhZ",
-      "Github": "https://trikashasan.github.io/pratyabhijna/",
+      "Github": "https://github.com/trikashasan/pratyabhijna/",
       "RSS": "https://karpurgauram.xyz/index.xml",
     },
   }),
