@@ -2,7 +2,6 @@
 {"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"Practices/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true}
 ---
 
-
 ![Pasted image 20240925181211.png](../metadata/images/Pasted image 20240925181211.png)
 # —Yama Niyama—
 —Swami Lakshamanjoo—
