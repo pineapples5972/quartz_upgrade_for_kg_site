@@ -9,16 +9,13 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Nagkumarです",
+    titleImage: "/static/og-image.png",
     enableSPA: true,
     enablePopovers: true,
     locale: "en-US",
     baseUrl: "karpurgauram.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: {
-      socialDescription: "Personal Website of Nagkumar", 
-      socialImage: "/quartz/static/og-image.png",
-    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -50,7 +47,7 @@ const config: QuartzConfig = {
           tertiary: "#d15c95",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "rgba(75, 109, 137, 0.15)",
-	  buttonlight: "#13000b47",
+	    buttonlight: "#13000b47",
         },
       },
     },
