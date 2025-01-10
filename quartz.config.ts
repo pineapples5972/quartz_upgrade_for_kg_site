@@ -15,6 +15,10 @@ const config: QuartzConfig = {
     baseUrl: "karpurgauram.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: {
+      socialDescription: "Personal Website of Nagkumar", 
+      socialImage: "/quartz/static/og-image.png",
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
