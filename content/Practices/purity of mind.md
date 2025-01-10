@@ -2,13 +2,14 @@
 {"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
 ---
 
-
-![shiva playin vina.png](../metadata/images/shiva%20playin%20vina.png)
 # —Śuddhacitt & Āsana—
 —Swami Lakshamanjoo—
 ∫Sunday, May 4, 1980∫
 
+![2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg](../2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg)
+
 **Purity of mind is the first requisite for spiritual practice.** If the mind is free from attachment and detachment, love and hatred, praise and blame, it can remain stable; and then it is termed a clean mind. You must be able to cultivate equality in spirit. Then only will spiritual practice become successful. Otherwise all goes vain and nothing is achieved. The first and foremost condition for spiritual practice is the adoption of a steady posture. 
+
 ![backlit-beach-dawn-588561.jpg](../metadata/images/backlit-beach-dawn-588561.jpg)
 Whichever recognized pose you adopt for yourself or is advised by your master, you must stick to it and you must be able to remain in it for long at least two hours and without the slightest movement or distraction. There should be no cause for making any movement. You should not yawn, nor look sideways, you should not stretch your muscles. There should be no bending position. You must be able to sit straight with your spinal column erect. You must sit like a rock. Then by mere sitting thus and even without doing any spiritual practice, your mind will become steady, serene and purified. **This is called the “conquest of posture” — āsanajaya**. By this the spiritual practice easily gains strength. You can see this for yourselves. Even one hour's sitting without any movement, will give your mind steadiness. You will feel peace. 
 ![IKQZ4JTE4AI6RGLTPWANBSUXUA.jpeg](../metadata/images/IKQZ4JTE4AI6RGLTPWANBSUXUA.jpeg)

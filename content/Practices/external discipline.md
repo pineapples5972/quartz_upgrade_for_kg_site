@@ -2,10 +2,10 @@
 {"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"Practices/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true}
 ---
 
-![woman holdin sun.png](../metadata/images/woman%20holdin%20sun.png)
 # —Yama Niyama—
 —Swami Lakshamanjoo—
 ∫Sunday, April 27, 1980∫
+![woman holdin sun.png](../metadata/images/woman%20holdin%20sun.png)
 
 Every human being must strive for self-realization. When the individual self has right knowledge of the universal Self and recognizes its Divinity without the least apprehension, it is known as Union or Yoga. Patanjali has explained eight limbs of Yoga in his Yoga-Sutras. However The Kashmir Śaiva philosophy also recognizes the Yoga-Sutras and we have our own independent system for limbs of Yoga, where it is stressed that the first two parts, i.e. Yamas and Niyamas must have already been practised. In Kashmir Śaivism the eight limbs of Yoga begin from Asanas—the right posture. By practising the first two one prepares oneself for the spiritual path. This is the development of etiquette. This is the external behavior. Unless one develops the external behavior how can one delve deeper into subtleties!
 ![Yoga-Poses.jpg](../metadata/images/Yoga-Poses.jpg)
@@ -87,7 +87,7 @@ Therefore, it is necessary that one must first execute one's efforts towards the
 
 ![shiva-temple.jpg](../metadata/images/shiva-temple.jpg)
 
-In summing up, I have to say again that unless you are friendly among yourselves, unless you cultivate the habit of being truthful, unless you give up looking to the faults of others, unless you eradicate greed and unless you cast your life according to the injunctions of the Sacred Ordinance, mere studying and learning lessons will avail nothing. Your thoughts must be pure and pious, you must be able to avoid greed with full confidence and faith in your own actions—Both past and present, you must increase your power of tolerance and endurance and you must witness your own deeds resigning everything to the will of Self. Then life will be beautiful and you will be blessed.
+In summing up, I have to say again that unless you are friendly among yourselves, unless you cultivate the habit of being truthful, unless you give up looking to the faults of others, unless you eradicate greed and unless you cast your life according to the injunctions of the Sacred Ordinance, mere studying and learning lessons will avail nothing. Your thoughts must be pure and pious, you must be able to avoid greed with full confidence and faith in your own actions—Both past and present, you must increase your power of tolerance and endurance and you must witness your own deeds resigning everything to the will of Self. Then life will be beautiful and you will be blessed. To be continued on [[Practices/internal posture\|internal posture]].
 
 ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
 

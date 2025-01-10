@@ -2,8 +2,9 @@
 {"title":"internal posture","date":"2024-10-14","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/internal posture.md","permalink":"/practices/internal-posture/","PassFrontmatter":true}
 ---
 
-![Miscellaneous Photographs 740502 - Swami Lakshman Joo Photo Album.jpg](../metadata/images/Miscellaneous%20Photographs%20740502%20-%20Swami%20Lakshman%20Joo%20Photo%20Album.jpg)
 # Now I shall speak to you about the conquest of Internal Posture.
+
+![Miscellaneous Photographs 740502 - Swami Lakshman Joo Photo Album.jpg](../metadata/images/Miscellaneous%20Photographs%20740502%20-%20Swami%20Lakshman%20Joo%20Photo%20Album.jpg)
 
 **==This is to get established at the junction—the middle or the meeting point of the two breaths. This is called the Pause.==**
 
