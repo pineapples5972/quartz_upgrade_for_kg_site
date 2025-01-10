@@ -22,7 +22,7 @@ These Tantras are manifested in three ways. Initially, ten Tantras came into exi
 | 10 Śivāgama-s    | Apara, Bheda, Dualistic tantras                           |
 
 ![Pasted image 20250110004741.png](../metadata/images/Pasted%20image%2020250110004741.png)
-Parābhairava & Bhairavi (The Beginning of Satyayug)
+`Parābhairava & Bhairavi (The Beginning of Satyayug)`
 
 **In the Bhairava Tantras, Lord Śiva is shown to be in predominance everywhere. He is there in fullness in Śiva and in all of His energies. He is equally present in everything and everywhere. You cannot say that something is closer to Him and something else is farther away. In everything He is there, fully and completely.**
 ### Vākćtuṣtaya-s (States of Speech) & The Transmission of Āgama-s:
@@ -32,17 +32,20 @@ In the three yugas (ages), satyuga, tretāyuga, and dvāparayuga, masters and di
 
 When kaliyuga occurred, these masters and disciples were so disappointed that they hid themselves in unknown places in order to avoid the touch of worldly people living at that time. Because of this, the theory of the Bhairava Tantras and Kashmir Śaivism was lost. Lord Śiva, however, always wishes to illuminate the universe and so He reappeared in this world at Mount Kailāśa, not in the form of Svacchandanātha with five mouths, but in the form of **Śrīkaṇṭhanātha**. And in the form of Śrīkaṇṭhanātha, He again taught the theory of the **Bhairava Tantras** to the sage **Durvāsā Ṛṣi**, who was **ūrdhvaretaḥ**, which means “one whose power of sex is preserved,” and who was, therefore, a brahmacārī (celibate). When Śrīkaṇṭhanātha initiated him at Mount Kailāśa, Śrīkaṇṭhanātha told him that he was to expand the thought of Bhairava Tantras in all of the universe without restriction to caste, color, or creed. After Śrīkaṇṭhanātha taught Durvāsā Ṛṣi in this manner, he disappeared into the ether.
 
-![a99aa44948680b1cd0dfb.jpg](../metadata/images/a99aa44948680b1cd0dfb.jpg)Śiva Pārvatī Pariwār (Art: Unknown)
+![a99aa44948680b1cd0dfb.jpg](../metadata/images/a99aa44948680b1cd0dfb.jpg)
+`Śiva Pārvatī Pariwār (Art: Unknown)`
 ### The First Parameṣthī Guru of Trikaśāsana - Durvāsā Ṛṣi:
 **Durvāsā Ṛṣi**, after meditating completely to acquire a real and fit disciple for initiation, became disappointed. He could not find anyone in this world fit to be initiated. His initiation was a practical initiation because, while initiating someone in the thought of Bhairava Tantras, he simultaneously initiated him in the practical side of this thought. And this practical initiation manifested itself immediately without the disciples having to do any practice or yoga. This disciple would become instantaneously enlightened. As he could not find a disciple fit for this initiation, he created out of his mental power one mind-born son. This mind-born son was called **Tryambakanātha**. Durvāsā Ṛṣi completely initiated **Tryambakanātha** in the way of the monistic Bhairava Tantras. Afterwards, he created two more mind-born sons, **Āmardakanātha** and **Śrīnātha**. He initiated his son Āmardakanātha in the dualistic Śiva Tantras and he initiated his other son Śrinātha in the monodualistic Rudra Tantras. All of this was done by Durvāsā Ṛṣi for the upliftment of mankind.
 
-![Durvasa’s_wrath_against_Shakuntala.jpg](../metadata/images/Durvasa’s_wrath_against_Shakuntala.jpg)A painting depicting Durvasa
+![Durvasa’s_wrath_against_Shakuntala.jpg](../metadata/images/Durvasa’s_wrath_against_Shakuntala.jpg)
+`A painting depicting Durvasa`
 
 For the upliftment of women, Durvāsā Ṛṣi created one mind-born daughter and she was called **Ardhatryambakā**. As Kashmir Śaivism does not recognize women to be in a state of degradation, Durvāsā Ṛṣi initiated her completely in the monistic thought of Bhairava Tantras. As this view, that women are not in a state of degradation, is not held by the other two schools of Śaivism, the dualistic and monodualistic schools, Durvāsā Ṛṣi created only one-mind born daughter. His daughter Ardhatryambakā’s teaching is known as the **Ardhatryambaka school of the Bhairava Tantras.** But as the continuity of the Ardhatryambaka school manifested itself from one woman to another secretly, there is no history of this school in this kaliyuga.
 
 ### The Unbroken Lineage of Trika:
 Durvāsā Ṛṣi’s son Tryambakanātha, the founder of the monistic school of Śaivism, was also a celibate (brahmacārī). According to the way of the sage Durvāsā Ṛṣi, he also created one mind-born son and named him **Tryambakāditya**, which means **“the** expansion of Tryambakanātha.” After initiating him completely in Bhairava Tantras, Tryambakanātha entered a cave, which is known as Tryambaka Guhā (cave), and disappeared. Tryambakanātha’s son Tryambakāditya also created one mind-born son and, after initiating him, Tryambakāditya disappeared into the ether.
-![72caa2e963a93518196d2.jpg](../metadata/images/72caa2e963a93518196d2.jpg)Pancamukhī Śiva Pārvatī & Nandi alongside Ṛṣabha bull (Art: Unknown)
+![72caa2e963a93518196d2.jpg](../metadata/images/72caa2e963a93518196d2.jpg)
+`Pancamukhī Śiva Pārvatī & Nandi alongside Ṛṣabha bull (Art: Unknown)`
 
 In this manner fifteen siddhas were created by mind. When, however, the fifteenth siddha attempted to create a mind-born son, he was not successful. It is said that this fifteenth siddha was not fully introverted, but at the same time he was also given to worldly pleasures. Because of this subtle impurity (āṇava mala), he was not successful in creating a mind-born son. After sitting in long meditation, he found in this world a girl with all good qualities and he went to her father and made arrangements to marry her. After marriage, they created one son who was called **Saṁgamāditya** and who, by his will, came to the valley of Kashmir and found Kailāśa mountain. Saṁgamāditya, like his father, married and produced one son named **Varṣāditya**, whom he initiated completely in the thought of the monistic Bhairava Tantras. Varṣāditya also married and produced one son, named **Aruṇāditya**, whom he initiated fully. Aruṇāditya married and created one son named **Ānanda**, whom he initiated and who was also completely informed practically in Śaivism.
 

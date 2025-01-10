@@ -3,7 +3,7 @@
 ---
 
 
-![Pasted image 20240928161058.png](../metadata/images/Pasted image 20240928161058.png)
+![shiva playin vina.png](../metadata/images/shiva%20playin%20vina.png)
 # —Śuddhacitt & Āsana—
 —Swami Lakshamanjoo—
 ∫Sunday, May 4, 1980∫
@@ -35,23 +35,34 @@ Meaning:
 Meaning:
 
 `With body, head and neck upright and steady, eyes turned to the point of the nose and gaze not wandering; maintaining internal calm, fearless, determined on the vow of brahmacaryaṁ and with the mind well governed, he should sit harmoniously absorbed in Self.` ![yoga-meditation-dec172019-min.webp](../metadata/images/yoga-meditation-dec172019-min.webp)
+
 `“समं कायशिरोग्रीवं” (Samaṁ kāyaśirōgrīvaṁ) —` ==That means that body, mind, neck and head should remain straight during the whole time of spiritual practice. That is the true posture. That should be acalaṁ—without any movement, and then the practiser's mind should be sthīraḥ—one-pointed, fixed on one object. All the formalities and preliminary duties should have been fulfilled, even the obligations pertaining to bodily needs. There should be no kind of distraction, i.e. clothes must have been washed and vegetables etc. purchased.== 
 ## Then sit in your posture for spiritual practice.
 ### Where? Which is the place for that? 
 
 `“संपश्यन्नासिकाग्रं स्वं” (Saṁpaśyaṇnāsikāgraṁ svaṁ) —` ==At the end of the twelve unit measure of your breath i.e. at dvādaśānta. You must seat yourself at the point of concentration as taught to you by your master. Exactly with the same zeal and in the same way as at the beginning should you mentally sit at the point of concentration.==
-![Pasted image 20240928161741.png](../metadata/images/Pasted image 20240928161741.png)
+
+![moon phases.png](../metadata/images/moon%20phases.png)
+
 ## What else is to follow?
 
 `“दिशचानवलोकयन्” (Diśaścanavalokayaṇ) —` ==You should carry no load of unnecessary thinking with you, no worry, and no care.== 
+
 ![1634319241798.jpg](../metadata/images/1634319241798.jpg)
+
 `“प्रशान्तात्मा” (Praśaṇtātmā) —` ==You must not have to think: “I shall be late for office, I have to see such and such a person, I have to attend this business or that. Now I should run through my practice and leave early.” No, forget all this first and then take to spiritual practice.== 
+
 ![How-Yoga-and-Meditation-is-Beneficial-For-Teachers-1-1024x684.jpg](../metadata/images/How-Yoga-and-Meditation-is-Beneficial-For-Teachers-1-1024x684.jpg)
+
 `“विगतभीः” (Vigatabhīḥ) —` ==You should not have this fear in mind that you have left that piece of work half-done and that you will have to face a loss. In this context you may think, “this is a more important piece of work to attend, this is duty. So I shall leave this spiritual practice half-way or I shall resume it later.” This must not be done.== 
+
 ![how-to-meditate-in-the-morning-header.jpg](../metadata/images/how-to-meditate-in-the-morning-header.jpg)
+
 `“ब्रह्मचारिव्रते स्थितः” (Brahmacārivratē sthitaḥ) —` ==You must remain in continued concentration on the real nature of Parabhairava, which is Supreme Consciousness. That is the vow of brahmacaryaṁ. A brahmacārī is not only one who has a big tilaka (a colour sign besmeared) on his forehead or who only attends to his long matted hair hanging from the top of his head, or who displays a big rosary round his neck or any other sign of the sort. Maintaining Supreme Consciousness alone, constant and continued, is brahmacarya.== 
+
 ![The-Dialogical-Manifestation-of-Reality-in-Agamas-Shiva.jpg](../metadata/images/The-Dialogical-Manifestation-of-Reality-in-Agamas-Shiva.jpg)
-So far I have talked to you about the conquest of posture—āsanajaya in the process of purifying the mind.
+
+#### So far I have talked to you about the conquest of posture—āsanajaya in the process of purifying the mind.
 ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
 
 $Source:$
