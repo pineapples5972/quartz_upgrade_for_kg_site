@@ -6,7 +6,7 @@
 —Swami Lakshamanjoo—
 ∫Sunday, May 4, 1980∫
 
-![2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg](../2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg)
+![2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg](../metadata/images/2fb71d_180340176c42494e9cf1fd746f4dc71e~mv2.jpg)
 
 **Purity of mind is the first requisite for spiritual practice.** If the mind is free from attachment and detachment, love and hatred, praise and blame, it can remain stable; and then it is termed a clean mind. You must be able to cultivate equality in spirit. Then only will spiritual practice become successful. Otherwise all goes vain and nothing is achieved. The first and foremost condition for spiritual practice is the adoption of a steady posture. 
 

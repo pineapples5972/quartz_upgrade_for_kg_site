@@ -38,5 +38,6 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - and Mystikism.
 
  ### Latest Articles
+ - [[Tantras & Agamas/The Undifferentiated Expanding Form Of Infinite & Cosmick Āgama-s\|The Undifferentiated Expanding Form Of Infinite & Cosmick Āgama-s]]
+ - [[Trikashasan/trikashasana viewpoint/The Aparātāntrik Analysis Of Vedā-s\|The Aparātāntrik Analysis Of Vedā-s]]
  - [[Introduction/trikashasan/trikashasan introduction\|trikashasan introduction]]
- - [[about us\|about us]]
