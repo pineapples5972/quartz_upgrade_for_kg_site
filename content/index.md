@@ -11,8 +11,8 @@
 
 <span class="center-text">`•~• Welcome Note •~•`</span>
 
-` अस्मद्रूपसमाविष्टः स्वात्मनात्मनिवारणे।
-शिवः करोतु निजया नमः शक्त्या ततात्मने॥`
+` अस्मद्रूपसमाविष्टः स्वात्मनात्मनिवारणे।`
+`शिवः करोतु निजया नमः शक्त्या ततात्मने॥`
 
 !<3 hail & well met, wayfarer, to karpurgauram, a secret layer of non-dual **trīka śaivadharma**, & a sanctified haven where timeless wisdom of yore doth find new life. we are heavily rooted deep within the venerable non-dual **bhairavāgama-s** & illumined by the teachings of the illustrious **parameṣṭhī gurudeva mahāmaheśvarāćārya abhinavaguptaḥ**. this sacred space is consecrate to the unraveling of the profound mysteries of the **trikaśāsan** lore. herein, the divine streams of **pratyabhijñā**; **spanda**; **krama**; & **kula** doth converge, their confluence revealing the ultimate verity of all existence.
 
