@@ -9,7 +9,7 @@
 
 </div>
 
-<span class="center-text">`•~• Welcome Note •~•`</span>
+<span class="center-text">`•~• WELCOME NOTE •~•`</span>
 
 <span class="center-text">`अस्मद्रूपसमाविष्टः स्वात्मनात्मनिवारणे।`</span>
 <span class="center-text">`शिवः करोतु निजया नमः शक्त्या ततात्मने॥`</span>
@@ -20,22 +20,22 @@ at karpurgauram, we do honor the interplay of dark & light introspective tāntri
 
 <span class="center-text">**☆ THE PATH OF SELF-KNOWING ☆**</span>
 
-the philosophy of **trika** doth stand as a beacon to the wanderer, calling forth the brave to embark upon a journey of deep reflection & self-knowing. understanding this threefold philosophy & choice are what defines one's own nature. within the sacred folds of this tradition lieth tools most potent, which rend asunder the veil of ignorance <trividhmal> & awaken the seeker unto the eternal truth of his own divine essence. the esoteric **trikamārga** encourages **self discovery** above all else. it's no mere just a path but a way of being, wherein every choice, each recognization, & all moments align as steps toward the great revelation of oneself as naught but **śiva’s universal consciousness**.
+the philosophy of **trika** doth stand as a beacon to the wanderer, calling forth the brave to embark upon a journey of deep reflection & self-knowing. understanding this threefold philosophy & choice are what defines one's own nature. within the sacred folds of this tradition lieth tools most potent, which rend asunder the veil of ignorance <trividhmal> & awaken the devotee unto the eternal truth of his own divine essence. the esoteric **trikamārga** encourages **self discovery** above all else. it's no mere just a path but a way of being, wherein every choice, each recognization, & all moments align as steps toward the great revelation of oneself as naught but **śiva’s universal consciousness**.
 
 <span class="center-text">**☆ WHAT WE OFFER ☆**</span>
 
 *at karpurgauram, our hearts are vowed to the study; practice; insights; & recognization of* **trika śaivadharma**. *this realm doth serve as a wellspring for all devotees, a place to immerse themselves in these noble arts*:—
 - ◇ **sacred poetry in the tongue of sanskṛt**; hindi; marathi; old english: `hearken to the divine harmony of śiva’s universe, sung in sacred verse.`
 
-- ◇ **non-dual bhairvāgamic doctrine**: `unfold the immutable truths disclosed within the` **bhairavaāgama-s**`.`
+- ◇ **non-dual bhairvāgamic doctrine**: `unfold the immutable truths disclosed within the` **bhairavāgama-s**.
 
-- ◇ **the multiverse of tantrāloka**: `delve into the scientific & philosophical revelations of` **bhairavatantra-s**`, as penned down by our beloved eternal` **parameṣṭhī gurudeva mahāmaheśvarāćārya abhinavaguptaḥ**`.`
+- ◇ **the multiverse of tantrāloka**: `delve into the scientific & philosophical revelations of` **bhairavatantra-s**`, as penned down by our beloved eternal` **parameṣṭhī gurudeva mahāmaheśvarāćārya abhinavaguptaḥ**.
 
 - ◇ **law of thoughtlessness (nirvikalpa)**: `attain the transcending of mental constructs & rest thyself in pure self-luminous awareness.`
 
 - ◇ **the yoga of the śiva sūtra-s**: `find awakening through the direct aphorisms of` **śiva** `himself.`
 
-- ◇ **the 112 dhāranā-s of vijñānabhairavatantra**: `master sacred meditations, whereby the soul merges with the universal consciousness.`
+- ◇ **the 112 dhāranā-s of VBT**: `master sacred meditations, whereby the soul merges with the universal consciousness.`
 
 - ◇ **dharma**: `align thy life with the cosmic law & harmonious order of existence.`
 
@@ -43,7 +43,7 @@ the philosophy of **trika** doth stand as a beacon to the wanderer, calling fort
 
 - ◇ **the interplay of darkness & light**: `partake in the holy ascent from ignorance to divine awakening.`
 
-- ◇ **bhakti <devotion>**: `foster surrender & union with the very essence of divinity.`
+- ◇ **bhakti** <devotion>: `foster surrender & union with the very essence of divinity.`
 
 - ◇ **sādhanā & samādhi**: `engage in the sacred practices that transcend the individual & unite thee with the absolute.`
 
@@ -55,7 +55,7 @@ the philosophy of **trika** doth stand as a beacon to the wanderer, calling fort
 
 **the trika path is no mere philosophy but a living, breathing experience, transforming the earnest pilgrim from within. it calleth upon the brave to rise beyond the chains of duality & live in the eternal unity of śiva, the undivided wellspring of all creation. this journey demandeth courage, devotion & a steadfast vow unto truth. yet, its rewards are boundless—the sublime recognization of thy nature as eternal, unfettered & whole.**
 
-let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sacred pilgrimage. together shall we pierce the veil of non-dual **trika śaivadharma** & embrace the supreme truth of existence.
+let [[karpurgauram]] be thy guiding lantern; thy muse; & thy companion upon this sacred pilgrimage. together shall we pierce the veil of non-dual **trika śaivadharma** & embrace the supreme truth of existence.
 
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
