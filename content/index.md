@@ -43,7 +43,7 @@ the philosophy of **trika** doth stand as a beacon to the wanderer, calling fort
 
 - ◇ **the interplay of darkness & light**: `partake in the holy ascent from ignorance to divine awakening.`
 
-- ◇ **bhakti** <devotion>: `foster surrender & union with the very essence of divinity.`
+- ◇ **bhakti**: `foster surrender & union with the very essence of divinity.`
 
 - ◇ **sādhanā & samādhi**: `engage in the sacred practices that transcend the individual & unite thee with the absolute.`
 
@@ -55,7 +55,7 @@ the philosophy of **trika** doth stand as a beacon to the wanderer, calling fort
 
 **the trika path is no mere philosophy but a living, breathing experience, transforming the earnest pilgrim from within. it calleth upon the brave to rise beyond the chains of duality & live in the eternal unity of śiva, the undivided wellspring of all creation. this journey demandeth courage, devotion & a steadfast vow unto truth. yet, its rewards are boundless—the sublime recognization of thy nature as eternal, unfettered & whole.**
 
-let [[karpurgauram]] be thy guiding lantern; thy muse; & thy companion upon this sacred pilgrimage. together shall we pierce the veil of non-dual **trika śaivadharma** & embrace the supreme truth of existence.
+let karpurgauram be thy guiding lantern; thy muse; & thy companion upon this sacred pilgrimage. together shall we pierce the veil of non-dual **trika śaivadharma** & embrace the supreme truth of existence.
 
 <span class="center-text">`ॐ नमः चिद्वपुषे॥`</span>
 
