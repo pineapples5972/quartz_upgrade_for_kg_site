@@ -4,8 +4,9 @@
 
 # Glossary
 
-### a
-### b
-### c
-### d
-### e
+### VBT — `vijñānabhairavatantra`
+### TĀ — `tantrālokaḥ`
+### PBHM — `pratyabhijñā hṛdayaṃ`
+### ŚS — `śiva sutrā-s`
+### AG — `mahāmaheśvarāćārya abhinavaguptaḥ`
+### SAṂVIT — `universal consciousness`
