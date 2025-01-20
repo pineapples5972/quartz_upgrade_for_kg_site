@@ -1,5 +1,5 @@
 ---
-{"title":"who are we?","date":"2025-01-08","publish":true,"path":"about us.md","permalink":"/about-us/","PassFrontmatter":true}
+{"title":"info","date":"2025-01-08","publish":true,"path":"about us.md","permalink":"/about-us/","PassFrontmatter":true}
 ---
 
 *hail, noble seeker, and welcome to the sacred domain of karpurgauram! we, a group of humble fellowship of devotees & volunteers, have embarked upon a most reverent quest—to unveil and immortalize the celestial wisdom of trikaśāsan—kashmir shaivism through the marvels of the digital age.*
@@ -10,4 +10,12 @@
 
 *come, kindred spirit, and join us in this most noble enterprise, as we strive to bridge the eternal and the ephemeral, and to rekindle the timeless flame of self-recognization in the hearts of all who yearn for truth.*
 
-   **— [editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).**
+*should thou seeketh counsel upon the sacred scriptures of trikaśāsan & the boundless realms of the parābhairava, thou mayest turn thy heart and inquiry toward the author,  Ｎａｇｋｕｍａｒ です at:*
+
+<span class="center-text">`karpurgauram@yahoo.com`</span>
+
+*just like a lamp that banisheth darkness, he doth illuminate the path of wisdom, drawing from the ancient rivers of Indian philosophy, wherein the eternal truths flow as nectar for the thirsty soul.*
+
+*by the grace of the eternal dharma, thou art invited to extend thy thoughts unto him, should thou yearn to unravel the veiled mysteries of existence or to drink deeply of the spiritual nectar that bindeth all things.*
+
+<span class="center-text">`— [editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).`</span>
