@@ -18,4 +18,4 @@
 
 *by the grace of the eternal dharma, thou art invited to extend thy thoughts unto him, should thou yearn to unravel the veiled mysteries of existence or to drink deeply of the spiritual nectar that bindeth all things.*
 
-<span class="center-text">`— [editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).`</span>
+<span class="center-text">— **[editor](https://t.me/karpurgauram) & [webdev](https://neovoid.is-cool.dev/).**</span>
