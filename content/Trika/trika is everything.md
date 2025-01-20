@@ -24,8 +24,6 @@
 
 **trika philosophy doth assert that divine knowledge cannot be grasped through words alone but through the sacred act of initiation by real direct lineage trika master. `vaikhari vāk` (words), as swāmiji expounded, are but vessels bereft of essence without the infusion of experience. he narrated the tale of nāradamuniji and sanat kumār, wherein the nāradamuniji, though learned in all scriptures, was admonished for lacking the inner realization of their meaning. thus, experience surpasseth intellect, and initiation becometh the gateway to divine comprehension.**
 
-![SquareQuick_2025117221536385.jpg](../metadata/SquareQuick_2025117221536385.jpg)
-
 **yet, the path to initiation is arduous, for an enlightened master is rare amidst the multitude. as swāmiji observed, it is by the grace of parābhairava alone that one doth encounter such a master. this divine grace guideth the seeker to the feet of the realized teacher, who then awakens the latent understanding of the disciple.**
 
 ==☆ trika & tantra==
