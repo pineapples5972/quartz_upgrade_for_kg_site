@@ -7,7 +7,9 @@ In sooth, **Bhārat**, a land most hallowed, hath ever been a sanctuary of unity
 Of Western philosophy, it may be said that it doth discourse much upon principles, yet its practical aspect is woefully wanting, as if it were a bird with but one wing.
 ![Pasted image 20250109150717.png](../../metadata/images/Pasted%20image%2020250109150717.png)
 In **Bhāratiya** tradition, two mighty streams of philosophy have emerged: Naigmik and Āgamik. These twin rivers, like the sacred Gangā and Yamunā, do flow in harmony, bearing the principles and practices of their respective sādhanā-s. At the foundation of Naigmik, or Vedic Sādhanā, standeth the Vedā-s, whilst Tantra formeth the bedrock of Āgamik, or Tāntrik Sādhanā. In their primeval forms, both these sādhanā-s coursed along their pristine paths, untainted and pure. Yet, as time unfolded, a mingling and syncretism did arise betwixt these sacred traditions. Nay, more than this, the streams of Smārtha and Purānik traditions, rooted in Vedic sādhanā, likewise intermingled with the currents of Tāntrik practice.
+
 ![Pasted image 20250109150537.png](../../metadata/images/Pasted%20image%2020250109150537.png)
+
 Even as secondary streams diverged and flourished within the realm of Vedic Sādhanā, so too did myriad branches arise within Tāntrik Sādhanā. The result of this sacred confluence was that both Vedic and Tāntrik traditions enriched one another, like two mirrors reflecting a greater whole. Thus, the scholars of Tantra Śāstra, in their wisdom, were compelled to proclaim:–
 
 `“गर्भाधानादितः कृत्वा यावदुवाहमेव च।”`
