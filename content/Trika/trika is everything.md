@@ -2,6 +2,7 @@
 {"title":"☆ “TRIKA” is EVERYTHING ॐ","date":"2025-01-20","tags":["trikashasan","trika","agama","everything","kashmirshaivism","shiva","shakti","anu","avarohakrama","arohakrama","threefold","science","nature","reality","individualconsciousness","universalconsciousness","articles"],"publish":true,"path":"Trika/trika is everything.md","permalink":"/Trika/trika is everything/","PassFrontmatter":true}
 ---
 
+
 **the sacred and ancient lore of trika**, often termed as the “**threefold science**,” standeth as a cornerstone of the exalted tradition of [[Introduction/kashmir shaivism/schools of kashmir shaivism\|schools of kashmir shaivism]]. within its hallowed precepts, one doth encounter a consummate revelation of divine truth, encompassing all existence in its triadic embrace. as recounted by **the venerable gurudeva swāmi lakṣamaṇajū mahārāj**, `trika, in its essence, is everything & pervadeth all`. its name, **trika**, `signifieth the triadic nature of reality, wherein the unity of existence is understood as the interplay of threefold nature manifest in the universal order`.
 
 ![tantra.jpg](../metadata/tantra.jpg)

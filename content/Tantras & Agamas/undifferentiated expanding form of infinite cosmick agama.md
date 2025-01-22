@@ -16,7 +16,7 @@ In Tantra, there exist two dimensions: the worldly (laukika) and the otherworldl
 
 ==Śiva and Śakti: The Eternal Union==
 The universe is composed of but two principles: Śiva, the unchanging witness, and Śakti, the dynamic force. Though distinct in context, they are ultimately one, like the sun and its rays. Śiva is the first grammatical person, the self-contained “I.” Śakti is the second grammatical person, the reflective “Thou.” The interplay between these two principles—the emergence of the "I" and the return of the "Thou" to its source—is the sacred narrative of Tantra Śāstra.
-![SquareQuick_2025122212547819.jpg](../SquareQuick_2025122212547819.jpg)
+![SquareQuick_2025122212547819.jpg](../metadata/SquareQuick_2025122212547819.jpg)
 The Sanskrit anusvāra (अं) symbolizeth the state of thoughtlessness, the undifferentiated essence of Śiva. When Śiva separateth himself from himself, creation—represented by visargaḥ (अः)—beginneth. This visargaḥ embodies the union of Śiva and Śakti, the cosmic dance of duality and unity. When two points of visargaḥ unite, they form a triangle. The upward triangle (△) representeth Śiva; the downward triangle (▽) representeth Śakti. Together, they form the six-pointed star (⛥), a symbol of their eternal union.
 
 ==The Śrī Ćakra: The Microcosm and the Macrocosm==

@@ -2,6 +2,7 @@
 {"title":"info","date":"2025-01-08","publish":true,"path":"about us.md","permalink":"/about-us/","PassFrontmatter":true}
 ---
 
+
 *hail, noble seeker, and welcome to the sacred domain of karpurgauram! we, a group of humble fellowship of devotees & volunteers, have embarked upon a most reverent quest—to unveil and immortalize the celestial wisdom of trikaśāsan—kashmir shaivism through the marvels of the digital age.*
 
 *under the ever-illuminating guidance of our eternal, permanent and revered last real direct lineage trika guru, swāmī lakṣamanjū mahārāja, we do labor with heart and soul to weave together the threads of ancient lore and modern ingenuity. our endeavor is not one of mere preservation, but of reawakening—the sacred texts, philosophies, and esoteric truths shall find new voice and visage, that they may touch the hearts of both the learned and the layman in equal measure.*

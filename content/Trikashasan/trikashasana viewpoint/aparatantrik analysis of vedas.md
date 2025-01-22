@@ -2,7 +2,6 @@
 {"title":"■ The Aparātāntrik Analysis Of Vedā-s – Trikaśāsana Viewpoint. ■","date":"2025-01-22","tags":["trikashasan","viewpoint","articles","kashmirshaivism","vedas","paratantras","paraparatantras","aparatantras","comparativestudies","history"],"publish":true,"path":"Trikashasan/trikashasana viewpoint/aparatantrik analysis of vedas.md","permalink":"/Trikashasan/Trikashasana Viewpoint/aparatantrik analysis of vedas/","PassFrontmatter":true}
 ---
 
-
 In sooth, **Bhārat**, a land most hallowed, hath ever been a sanctuary of unity amidst diversity. From ancient days long past, the streams of sacred knowledge and manifold sciences have flowed in abundance upon this blessed soil. The Vedā-s, Upaniṣads, Purānā-s, Vedānga-s, and the sciences spiritual and material, known as Ādhibhautik, have endured through the ages, upheld in the venerable traditions of study and instruction. Amongst these, Philosophy doth stand as a noble channel, guiding the flow of wisdom. The ultimate aim of all knowledge and sciences, verily, is naught but the attainment of felicity in the mundane realm. Yet the paths prescribed by other scriptures beget but fleeting and incomplete joy, whereas Philosophy alone doth offer the royal highway to supreme and enduring bliss. 
 
 Of Western philosophy, it may be said that it doth discourse much upon principles, yet its practical aspect is woefully wanting, as if it were a bird with but one wing.
