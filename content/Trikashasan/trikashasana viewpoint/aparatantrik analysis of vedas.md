@@ -45,8 +45,6 @@ These sacred scriptures are the pathways to Śiva, the ultimate reality. The att
 ![Pasted image 20250109151441.png](../../metadata/images/Pasted image 20250109151441.png)
 The Vedā-s, are the sole Aparātantra, being both cognitive and verbal in nature. In the great Lord Śiva, the Samvetā Śakti, the unified power, is manifest in threefold form: Īcchā <Will>; Jñāna <Knowledge>; and Krīyā <Action>. Of these, the power of Will remaineth transcendent and ineffable. Jñānarūpiṇī Śakti, the power of Knowledge, is of two kinds: Parājñāna (transcendental cognition) and Aparājñāna (verbal cognition). The latter, being verbal, giveth rise to scriptures, wherein knowledge is expressed through words and interpretation.
 
-At the dawn of creation, Lord Śiva, in his boundless grace, doth reveal the sacred knowledge of the Vedā-s for the liberation of souls. When this divine knowledge taketh on verbal form, it is known as Aparātantra. Thus, the Vedā-s, though manifest as word, are proven to be the Aparātantra of the highest order.
-
-Verily, the Vedā-s are both the path and the goal, the word and the silence, leading to the ultimate union with the eternal Śiva.
+At the dawn of creation, Lord Śiva, in his boundless grace, doth reveal the sacred knowledge of the Vedā-s for the liberation of souls. When this divine knowledge taketh on verbal form, it is known as Aparātantra. Thus, the Vedā-s, though manifest as word, are proven to be the Aparātantra of the highest order. Verily, the Vedā-s are both the path and the goal, the word and the silence, leading to the ultimate union with the eternal Śiva.
 
 `—  Ｎａｇｋｕｍａｒ です.`
