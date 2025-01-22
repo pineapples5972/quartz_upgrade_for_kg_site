@@ -2,6 +2,7 @@
 {"title":"kula","date":"2024-09-26","tags":["kula","introduction","articles"],"publish":true,"path":"Introduction/kula-akula/kula.md","permalink":"/introduction/kula-akula/kula/","PassFrontmatter":true}
 ---
 
+
 ## ]■[ "Kula System." ]■[
 
 ⎯ The **Kula** system teaches you **how you can live in caitanya** (universal Consciousness), **the real nature of yourself, in the act of ascending and descending. While you rise from the lowest to the highest you realize your nature, and while you descend from the highest to the lowest you also realize your nature.**

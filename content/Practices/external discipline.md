@@ -2,10 +2,11 @@
 {"title":"external discipline","date":"2024-09-25","tags":["#discipline","#practices","#awareness","#sadhana","#yama","#niyama","#articles"],"publish":true,"path":"Practices/external discipline.md","permalink":"/practices/external-discipline/","PassFrontmatter":true}
 ---
 
+
 # —Yama Niyama—
 —Swami Lakshamanjoo—
 ∫Sunday, April 27, 1980∫
-![woman holdin sun.png](../metadata/images/woman%20holdin%20sun.png)
+![woman holdin sun.png](../metadata/images/woman holdin sun.png)
 
 Every human being must strive for self-realization. When the individual self has right knowledge of the universal Self and recognizes its Divinity without the least apprehension, it is known as Union or Yoga. Patanjali has explained eight limbs of Yoga in his Yoga-Sutras. However The Kashmir Śaiva philosophy also recognizes the Yoga-Sutras and we have our own independent system for limbs of Yoga, where it is stressed that the first two parts, i.e. Yamas and Niyamas must have already been practised. In Kashmir Śaivism the eight limbs of Yoga begin from Asanas—the right posture. By practising the first two one prepares oneself for the spiritual path. This is the development of etiquette. This is the external behavior. Unless one develops the external behavior how can one delve deeper into subtleties!
 ![Yoga-Poses.jpg](../metadata/images/Yoga-Poses.jpg)
@@ -38,7 +39,7 @@ Therefore, it is necessary that one must first execute one's efforts towards the
 
 `The favour of doing good is denied to him.`
 
-![moon goddess.png](../metadata/images/moon%20goddess.png)
+![moon goddess.png](../metadata/images/moon goddess.png)
 #### It is, therefore, stressed that the five Yamas (internal disciplines) should be followed first:—
 
 ![126.jpg](../metadata/images/126.jpg)

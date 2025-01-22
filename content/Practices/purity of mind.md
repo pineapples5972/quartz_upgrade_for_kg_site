@@ -2,6 +2,7 @@
 {"title":"purity of mind","date":"2024-09-28","tags":["discipline","practices","mind","purity","awareness","yama","niyama","asana","shuddhachitt","sadhana","articles"],"publish":true,"path":"Practices/purity of mind.md","permalink":"/practices/purity-of-mind-and-internal-posture/","PassFrontmatter":true}
 ---
 
+
 # —Śuddhacitt & Āsana—
 —Swami Lakshamanjoo—
 ∫Sunday, May 4, 1980∫
@@ -43,7 +44,7 @@ Meaning:
 
 `“संपश्यन्नासिकाग्रं स्वं” (Saṁpaśyaṇnāsikāgraṁ svaṁ) —` ==At the end of the twelve unit measure of your breath i.e. at dvādaśānta. You must seat yourself at the point of concentration as taught to you by your master. Exactly with the same zeal and in the same way as at the beginning should you mentally sit at the point of concentration.==
 
-![moon phases.png](../metadata/images/moon%20phases.png)
+![moon phases.png](../metadata/images/moon phases.png)
 
 ## What else is to follow?
 

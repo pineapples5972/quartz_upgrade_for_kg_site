@@ -2,6 +2,7 @@
 {"title":"birth of the tantras in trika","date":"2024-09-25","tags":["history","origin","lineage","tantra","kashmirshaivism","introduction","trika","articles"],"publish":true,"path":"Origin/birth of the tantras in trika.md","permalink":"/origin/birth-of-the-tantras-in-trika/","PassFrontmatter":true}
 ---
 
+
 ![0c45c8db5e700b4dd03d9.jpg](../metadata/images/0c45c8db5e700b4dd03d9.jpg)
 `Bhairava and Bhairavi (At the down of Satyayuga)`
 
@@ -21,7 +22,7 @@ These Tantras are manifested in three ways. Initially, ten Tantras came into exi
 | 18 Rudrāgama-s   | Parāpara, Bhedābheda, Dualistic cum Non-dualistic tantras |
 | 10 Śivāgama-s    | Apara, Bheda, Dualistic tantras                           |
 
-![Pasted image 20250110004741.png](../metadata/images/Pasted%20image%2020250110004741.png)
+![Pasted image 20250110004741.png](../metadata/images/Pasted image 20250110004741.png)
 `Parābhairava & Bhairavi (The Beginning of Satyayug)`
 
 **In the Bhairava Tantras, Lord Śiva is shown to be in predominance everywhere. He is there in fullness in Śiva and in all of His energies. He is equally present in everything and everywhere. You cannot say that something is closer to Him and something else is farther away. In everything He is there, fully and completely.**
