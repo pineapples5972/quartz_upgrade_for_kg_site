@@ -1,7 +1,6 @@
 ---
-{"title":"☆ “TRIKA” is EVERYTHING ॐ","date":"2025-01-20","tags":["trikashasan","trika","agama","everything","kashmirshaivism","shiva","shakti","anu","avarohakrama","arohakrama","threefold","science","nature","reality","individualconsciousness","universalconsciousness","articles"],"publish":true,"path":"Trika/trika is everything.md","permalink":"/Trika/trika is everything/","PassFrontmatter":true}
+{"title":"☆ “TRIKA” is EVERYTHING ॐ","date":"2025-01-22","tags":["trikashasan","trika","agama","everything","kashmirshaivism","shiva","shakti","anu","avarohakrama","arohakrama","threefold","science","nature","reality","individualconsciousness","universalconsciousness","articles"],"publish":true,"path":"Trika/trika is everything.md","permalink":"/Trika/trika is everything/","PassFrontmatter":true}
 ---
-
 
 **the sacred and ancient lore of trika**, often termed as the “**threefold science**,” standeth as a cornerstone of the exalted tradition of [[Introduction/kashmir shaivism/schools of kashmir shaivism\|schools of kashmir shaivism]]. within its hallowed precepts, one doth encounter a consummate revelation of divine truth, encompassing all existence in its triadic embrace. as recounted by **the venerable gurudeva swāmi lakṣamaṇajū mahārāj**, `trika, in its essence, is everything & pervadeth all`. its name, **trika**, `signifieth the triadic nature of reality, wherein the unity of existence is understood as the interplay of threefold nature manifest in the universal order`.
 
@@ -13,11 +12,11 @@
 
 ![SquareQuick_2025117221127364.jpg](../metadata/SquareQuick_2025117221127364.jpg)
 
-| \| ° śiva 》    | ° śakti 》     | ° aṇu \|      |
-| -------------- | ------------- | ------------- |
-| **\| ° aṇu 》** | **° śakti 》** | **° śiva \|** |
-
 **in this divine doctrine, the supreme śiva is the origin and culmination of all.** **trika describeth the process of manifestation through** “`अवरोह-क्रम`” (`avaroh-krama`) **| ° śiva 》 ° śakti 》 ° aṇu** (*descent*) **|** and **liberation through** “`आरोह-क्रम`” (`āroh-krama`) **| ° aṇu 》 ° śakti 》 ° śiva** (*ascent*) **|**. **when śiva descendeth, he entereth the worldly state, assuming the form of aṇu** (*the individual self*) through **the medium of śakti.** **in this state, he experienceth the discomfort of limitation.** y**et, by his own grace, he ascendeth once more to his supreme essence, returning to the boundless freedom of śiva.**
+
+| “अवरोह-क्रम” (avaroh-krama)        | “आरोह-क्रम” (āroh-krama)           |
+| ---------------------------------- | ---------------------------------- |
+| **\| ° śiva 》 ° śakti 》 ° aṇu \|** | **\| ° śiva 》 ° śakti 》 ° aṇu \|** |
 
 **this divine interplay of descent** and ascent, as **my permanent gurudeva swāmi lakṣamaṇajū mahārāj** did expound, **is the līlā (drama)—the cosmic play of existence**. `it is meaningful only when the movements of descent and ascent are in harmonious balance`. **without the capacity for both, there is no true drama. thus, the recognized soul is distinguished by their mastery of both movements, descending and ascending at will, embodying the state of absolute freedom, which is the very essence of trikaśāsan.**
 
